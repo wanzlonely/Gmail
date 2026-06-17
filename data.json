@@ -1,0 +1,98 @@
+{
+  "users": {
+    "8062935882": {
+      "rate_limit": {
+        "date": "2026-06-17",
+        "count": 10,
+        "last_send": 1781686747.622215
+      },
+      "premium": true,
+      "email": "u58820hoi@beta.walzhop.site",
+      "password": "Nx26@P5DzXo0i8A!",
+      "is_used": false,
+      "created_at": 1781688517.800161,
+      "template_index": 2
+    },
+    "8843395564": {},
+    "8943855921": {},
+    "6531153841": {},
+    "7595814768": {
+      "email": "hanz@walzhop.site",
+      "password": "2318",
+      "is_used": false,
+      "template_index": 3
+    },
+    "8876481081": {
+      "rate_limit": {
+        "date": "2026-06-16",
+        "count": 1,
+        "last_send": 1781614868.217783
+      }
+    },
+    "8344453988": {
+      "rate_limit": {
+        "date": "2026-06-16",
+        "count": 1,
+        "last_send": 1781615110.885914
+      },
+      "email": "neo@walzhop.site",
+      "password": "+249114467301",
+      "is_used": false,
+      "template_index": 2
+    },
+    "8471916514": {},
+    "7251704229": {},
+    "8765581285": {},
+    "6707572986": {},
+    "6808758071": {
+      "rate_limit": {
+        "date": "2026-06-17",
+        "count": 1,
+        "last_send": 1781676066.576475
+      }
+    },
+    "8393435937": {
+      "rate_limit": {
+        "date": "2026-06-16",
+        "count": 1,
+        "last_send": 1781619474.911539
+      }
+    },
+    "8680346163": {
+      "rate_limit": {
+        "date": "2026-06-16",
+        "count": 1,
+        "last_send": 1781621780.204378
+      }
+    },
+    "8286246694": {
+      "rate_limit": {
+        "date": "2026-06-17",
+        "count": 1,
+        "last_send": 1781653895.406373
+      }
+    },
+    "8463848362": {
+      "rate_limit": {
+        "date": "2026-06-17",
+        "count": 1,
+        "last_send": 1781674929.094844
+      }
+    },
+    "8537761790": {
+      "rate_limit": {
+        "date": "2026-06-17",
+        "count": 1,
+        "last_send": 1781675323.245191
+      }
+    },
+    "7284362368": {},
+    "8779199320": {
+      "email": "u9320izgo@walzhop.site",
+      "password": "Nx26@HqkinPcWeU!",
+      "is_used": false,
+      "template_index": 1
+    }
+  },
+  "template_counter": 57
+}
